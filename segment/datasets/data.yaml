@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['seatbelt']
+
+roboflow:
+  workspace: fyp-vf529
+  project: seatbelt-tw61a
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/fyp-vf529/seatbelt-tw61a/dataset/3

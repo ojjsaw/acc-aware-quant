@@ -1,0 +1,25 @@
+description: Ultralytics YOLOv8n model trained on data.yaml
+author: Ultralytics
+date: '2024-06-12T16:56:01.537491'
+version: 8.2.28
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: black-camel
+  1: black-elephant
+  2: black-horse
+  3: black-king
+  4: black-pawn
+  5: black-queen
+  6: white-camel
+  7: white-elephant
+  8: white-horse
+  9: white-king
+  10: white-pawn
+  11: white-queen
